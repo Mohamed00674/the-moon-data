@@ -1,62 +1,73 @@
 [
   {
     "id": 1,
-    "name": "Cappuccino",
-    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/cappuccino.jpg",
-    "price": "$5.20",
-    "rating": 4.7,
-    "votes": 65,
-    "popular": true,
-    "available": true
+    "name": "Makloub Kabeb bœuf",
+    "image": "https://img.freepik.com/photos-premium/close-up-nourriture-dans-assiette_1048944-54744.jpg?ga=GA1.1.812103121.1739128928&semt=ais_hybrid",
+    "price": "11.5 Dt",
+    "category" : "Makloub"
   },
   {
     "id": 2,
-    "name": "House Coffee",
+    "name": "Makloub chich taouak poulet ",
     "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/house-coffee.jpg",
-    "price": "$3.50",
-    "rating": 4.85,
-    "votes": 15,
-    "popular": true,
-    "available": true
+    "price": "10.5 Dt",
+    "category" : "Makloub"
   },
   {
     "id": 3,
-    "name": "Espresso",
+    "name": "Makloub chawarma poulet",
     "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/espresso.jpg",
-    "price": "$2.50",
-    "rating": 4.9,
-    "votes": 55,
-    "popular": false,
-    "available": true
+    "price": "10.5 Dt",
+    "category" : "Makloub"
   },
   {
     "id": 4,
-    "name": "Coffee Latte",
+    "name": "Makloub Mix chich & Kabeb",
     "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/coffee-latte.jpg",
-    "price": "$4.50",
-    "rating": 5.0,
-    "votes": 23,
-    "popular": false,
-    "available": true
+    "price": "14.5 Dt",
+    "category" : "Makloub"
+    
   },
   {
     "id": 5,
-    "name": "Chocolate Coffee",
+    "name": "Pizza Champignons",
     "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/chocolate-coffee.jpg",
-    "price": "$4.00",
-    "rating": "4.65",
-    "votes": 122,
-    "popular": false,
-    "available": false
+    "price": "16 Dt",
+    "category" : "Pizza"
   },
   {
     "id": 6,
-    "name": "Valentine Special",
+    "name": "Pizza 4 saisons",
     "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/valentine-special.jpg",
-    "price": "$5.50",
-    "rating": null,
-    "votes": 0,
-    "popular": false,
-    "available": true
+    "price": "20 Dt",
+    "category" : "Pizza"
+  },
+   {
+    "id": 7,
+    "name": "Pizza 4 fromages",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/valentine-special.jpg",
+    "price": "20 Dt",
+    "category" : "Pizza"
+  },
+  {
+    "id": 8,
+    "name": "Pizza thon",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/valentine-special.jpg",
+    "price": "16 Dt",
+    "category" : "Pizza"
+  },
+   {
+    "id": 9,
+    "name": "Pizza jambon",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/valentine-special.jpg",
+    "price": "15 Dt",
+    "category" : "Pizza"
+  },
+   {
+    "id": 10,
+    "name": "Pizza margarita",
+    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/valentine-special.jpg",
+    "price": "12 Dt",
+    "category" : "Pizza"
   }
 ]
