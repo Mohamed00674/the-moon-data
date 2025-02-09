@@ -3,13 +3,13 @@
     "id": 1,
     "name": "Makloub Kabeb bœuf",
     "image": "https://img.freepik.com/photos-premium/close-up-nourriture-dans-assiette_1048944-54744.jpg?ga=GA1.1.812103121.1739128928&semt=ais_hybrid",
-    "price": "11.5 Dt",
+    "price": "11.5D",
     "category" : "Makloub"
   },
   {
     "id": 2,
     "name": "Makloub chich taouak poulet ",
-    "image": "https://csyxkpbavpcrhwqhcpyy.supabase.co/storage/v1/object/public/assets/coffee-challenge/house-coffee.jpg",
+    "image": "https://img.freepik.com/photos-premium/quesadilla-sauce-gros-plan-plaque_479940-34.jpg",
     "price": "10.5 Dt",
     "category" : "Makloub"
   },
