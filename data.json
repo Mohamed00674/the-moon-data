@@ -69,5 +69,68 @@
     "image": "https://imag.bonviveur.com/pizza-margarita.jpg",
     "price": "12 Dt",
     "category" : "Pizza"
+  },
+  {
+    "id": 11,
+    "name": "Kounefa",
+    "image": "https://news-tunisia.tunisienumerique.com/wp-content/uploads/2020/10/7-20.jpg",
+    "price": "12 Dt",
+    "category" : "Kounefa"
+  },
+    {
+    "id": 12,
+    "name": "Plat chich kabeb",
+    "image": "https://801ede62.delivery.rocketcdn.me/wp-content/uploads/2024/04/shish-kebab-17.jpg",
+    "price": "30 Dt",
+    "category" : "Plat"
+  },
+   {
+    "id": 13,
+    "name": "Plat kabeb",
+    "image": "https://www.la-viande.fr/sites/default/files/inline-images/d%C3%B6ner-kebab.jpg",
+    "price": "26 Dt",
+    "category" : "Plat"
+  },
+    {
+    "id": 14,
+    "name": "Plat chich taouek",
+    "image": "https://www.la-cuisine-marocaine.com/photos-recettes/chich-taouk.jpg",
+    "price": "23 Dt",
+    "category" : "Plat"
+  },
+    {
+    "id": 15,
+    "name": "Plat machawi mchakel",
+    "image": "https://ouvadelivery.com/wp-content/uploads/2022/12/mchakel-500x300.jpg",
+    "price": "30 Dt",
+    "category" : "Plat"
+  },
+    {
+    "id": 16,
+    "name": "Plat demi poulet grillé",
+    "image": "https://www.shutterstock.com/image-photo/half-appetizing-grilled-chicken-golden-600w-709230478.jpg",
+    "price": "20 Dt",
+    "category" : "Plat"
+  },
+    {
+    "id": 17,
+    "name": "Kebba",
+    "image": "https://www.tseppas.com/files/2/kebba-meat.jpg",
+    "price": "4 Dt",
+    "category" : "Moajanat"
+  },
+    {
+    "id": 18,
+    "name": "Sambousek",
+    "image": "https://butfirstchai.com/wp-content/uploads/2022/11/sambousek-beef.jpg",
+    "price": "2.5 Dt",
+    "category" : "Moajanat"
+  },
+    {
+    "id": 19,
+    "name": "Tost",
+    "image": "https://moribyan.com/wp-content/uploads/2023/02/IMG_8920.jpg",
+    "price": "2.5 Dt",
+    "category" : "Moajanat"
   }
 ]
