@@ -9,21 +9,21 @@
   {
     "id": 2,
     "name": "Makloub chich taouak poulet ",
-    "image": "./images/Makloub-chich-taouak-poulet.png",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Makloub-chich-taouak-poulet.png",
     "price": "10.5 Dt",
     "category" : "Makloub"
   },
   {
     "id": 3,
     "name": "Makloub chawarma poulet",
-    "image": "./images/Makloub-chawarma-poulet.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Makloub-chawarma-poulet.jpg",
     "price": "10.5 Dt",
     "category" : "Makloub"
   },
   {
     "id": 4,
     "name": "Makloub Mix chich & Kabeb",
-    "image": "./images/Makloub-Mix.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Makloub-Mix.jpg",
     "price": "14.5 Dt",
     "category" : "Makloub"
     
@@ -31,56 +31,56 @@
   {
     "id": 5,
     "name": "Pizza Champignons",
-    "image": "./images/Pizza-Champignons.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Pizza-Champignons.jpg",
     "price": "16 Dt",
     "category" : "Pizza"
   },
   {
     "id": 6,
     "name": "Pizza 4 saisons",
-    "image": "./images/pizza-4-saisons.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/pizza-4-saisons.jpg",
     "price": "20 Dt",
     "category" : "Pizza"
   },
    {
     "id": 7,
     "name": "Pizza 4 fromages",
-    "image": "./images/pizza-4-fromages.jpeg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/pizza-4-fromages.jpeg",
     "price": "20 Dt",
     "category" : "Pizza"
   },
   {
     "id": 8,
     "name": "Pizza thon",
-    "image": "./images/Pizza-thon.png",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Pizza-thon.png",
     "price": "16 Dt",
     "category" : "Pizza"
   },
    {
     "id": 9,
     "name": "Pizza jambon",
-    "image": "./images/Pizza-jambon.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Pizza-jambon.jpg",
     "price": "15 Dt",
     "category" : "Pizza"
   },
    {
     "id": 10,
     "name": "Pizza margarita",
-    "image": "./images/pizza-margarita.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/pizza-margarita.jpg",
     "price": "12 Dt",
     "category" : "Pizza"
   },
   {
     "id": 11,
     "name": "Kounefa",
-    "image": "./images/Kounefa.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Kounefa.jpg",
     "price": "12 Dt",
     "category" : "Kounefa"
   },
     {
     "id": 12,
     "name": "Plat chich kabeb",
-    "image": "./images/Plat-chich-kabeb.png",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Plat-chich-kabeb.png",
     "price": "30 Dt",
     "category" : "Plat",
     "description" : "2 shish tawook et 2 brochettes de viande Salade de riz, pain, houmous, sauce à l'ail et frites"
@@ -89,7 +89,7 @@
    {
     "id": 13,
     "name": "Plat kabeb",
-    "image": "./images/plat-kebab.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/plat-kebab.jpg",
     "price": "26 Dt",
     "category" : "Plat",
     "description" : "3 brochettes de kebab, viande de riz, salade, pain, houmous, sauce à l'ail et frites"
@@ -97,7 +97,7 @@
     {
     "id": 14,
     "name": "Plat chich taouek",
-    "image": "./images/Plat-chich-taouek.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Plat-chich-taouek.jpg",
     "price": "23 Dt",
     "category" : "Plat",
     "description" : "Brochettes de shish tawook.Salade de riz, pain, houmous, sauce à l'ail et frites"
@@ -105,7 +105,7 @@
     {
     "id": 15,
     "name": "Plat machawi mchakel",
-    "image": "./images/mchakel-500x300.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/mchakel-500x300.jpg",
     "price": "30 Dt",
     "category" : "Plat",
     "description" : "2 shish tawook, 1 kebab d'agneau et 1 kebab de poulet. Salade de riz, pain, houmous, sauce à l'ail et frites"
@@ -113,7 +113,7 @@
     {
     "id": 16,
     "name": "Plat demi poulet grillé",
-    "image": "./images/Plat-demi-poulet-grillé.png",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Plat-demi-poulet-grillé.png",
     "price": "20 Dt",
     "category" : "Plat",
     "description" : "Salade de riz, pain, houmous, sauce à l'ail et frites"
@@ -121,28 +121,28 @@
     {
     "id": 17,
     "name": "Kebba",
-    "image": "./images/kebba-meat.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/kebba-meat.jpg",
     "price": "4 Dt",
     "category" : "Moajanat"
   },
     {
     "id": 18,
     "name": "Sambousek",
-    "image": "/images/sambousek.jpg",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/sambousek.jpg",
     "price": "2.5 Dt",
     "category" : "Moajanat"
   },
     {
     "id": 19,
     "name": "Toast",
-    "image":"./images/toast.jpg",
+    "image":"https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/toast.jpg",
     "price": "2.5 Dt",
     "category" : "Moajanat"
   }
   , {
     "id" : 20,
     "name" : "Plat Crispy" , 
-    "image" : "./images/krespi.jpg" ,
+    "image" : "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/krespi.jpg" ,
     "price" : "20 Dt",
     "category" : "Plat",
     "description" : "Salade de riz, pain et sauce Houmous, sauce à l'ail et frites"
