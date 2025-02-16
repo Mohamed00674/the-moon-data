@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Makloub Kabeb bœuf",
-    "image": "./images/Makloub-Kabeb-bœuf.png",
+    "image": "https://raw.githubusercontent.com/Mohamed00674/the-moon-data/main/images/Makloub-Kabeb-bœuf.png",
     "price": "11.5D",
     "category" : "Makloub"
   },
