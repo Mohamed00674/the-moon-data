@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "Makloub Kabeb bœuf",
-    "image": "https://img.freepik.com/photos-premium/close-up-nourriture-dans-assiette_1048944-54744.jpg?ga=GA1.1.812103121.1739128928&semt=ais_hybrid",
+    "image": "./images/Makloub-Kabeb-bœuf.png",
     "price": "11.5D",
     "category" : "Makloub"
   },
   {
     "id": 2,
     "name": "Makloub chich taouak poulet ",
-    "image": "https://img.freepik.com/photos-premium/quesadilla-sauce-gros-plan-plaque_479940-34.jpg",
+    "image": "./images/Makloub-chich-taouak-poulet.png",
     "price": "10.5 Dt",
     "category" : "Makloub"
   },
   {
     "id": 3,
     "name": "Makloub chawarma poulet",
-    "image": "https://www.tunisienumerique.com/wp-content/uploads/2020/03/makloub.jpg",
+    "image": "./images/Makloub-chawarma-poulet.jpg",
     "price": "10.5 Dt",
     "category" : "Makloub"
   },
   {
     "id": 4,
     "name": "Makloub Mix chich & Kabeb",
-    "image": "https://i.ytimg.com/vi/iAd7gCNLA7M/maxresdefault.jpg",
+    "image": "./images/Makloub-Mix.jpg",
     "price": "14.5 Dt",
     "category" : "Makloub"
     
@@ -31,106 +31,121 @@
   {
     "id": 5,
     "name": "Pizza Champignons",
-    "image": "https://menutoshop.com/wp-content/uploads/2020/08/menutoshop_by_mariepascale_recettes_equilibrees_menus_de_la_semaine_sans_gluten_flexitarien_recette_de_saison-_cuisine_responsable_legume_de_saison_champignon_pizza_blanche-1-689x500.jpg",
+    "image": "./images/Pizza-Champignons.jpg",
     "price": "16 Dt",
     "category" : "Pizza"
   },
   {
     "id": 6,
     "name": "Pizza 4 saisons",
-    "image": "https://jesuisuncuisinier.fr/wp-content/uploads/2020/10/pizza-4-saisons.jpg",
+    "image": "./images/pizza-4-saisons.jpg",
     "price": "20 Dt",
     "category" : "Pizza"
   },
    {
     "id": 7,
     "name": "Pizza 4 fromages",
-    "image": "https://fac.img.pmdstatic.net/fit/~1~fac~2021~03~30~80e9e375-369a-400b-abd2-a8cc683b91d1.jpeg/750x562/quality/80/crop-from/center/cr/wqkgSVNUT0NLL0dFVFRZIElNQUdFUyAvIEZlbW1lIEFjdHVlbGxl/pizza-4-fromages.jpeg",
+    "image": "./images/pizza-4-fromages.jpeg",
     "price": "20 Dt",
     "category" : "Pizza"
   },
   {
     "id": 8,
     "name": "Pizza thon",
-    "image": "https://www.cuisinelolo.fr/wp-content/uploads/2021/07/Pizza-au-thon-olives-noires-1.jpg",
+    "image": "./images/Pizza-thon.png",
     "price": "16 Dt",
     "category" : "Pizza"
   },
    {
     "id": 9,
     "name": "Pizza jambon",
-    "image": "https://fr.frije.com/content/recipes/45392/400-1.jpg",
+    "image": "./images/Pizza-jambon.jpg",
     "price": "15 Dt",
     "category" : "Pizza"
   },
    {
     "id": 10,
     "name": "Pizza margarita",
-    "image": "https://imag.bonviveur.com/pizza-margarita.jpg",
+    "image": "./images/pizza-margarita.jpg",
     "price": "12 Dt",
     "category" : "Pizza"
   },
   {
     "id": 11,
     "name": "Kounefa",
-    "image": "https://news-tunisia.tunisienumerique.com/wp-content/uploads/2020/10/7-20.jpg",
+    "image": "./images/Kounefa.jpg",
     "price": "12 Dt",
     "category" : "Kounefa"
   },
     {
     "id": 12,
     "name": "Plat chich kabeb",
-    "image": "https://801ede62.delivery.rocketcdn.me/wp-content/uploads/2024/04/shish-kebab-17.jpg",
+    "image": "./images/Plat-chich-kabeb.png",
     "price": "30 Dt",
-    "category" : "Plat"
+    "category" : "Plat",
+    "description" : "2 shish tawook et 2 brochettes de viande Salade de riz, pain, houmous, sauce à l'ail et frites"
+      
   },
    {
     "id": 13,
     "name": "Plat kabeb",
-    "image": "https://www.la-viande.fr/sites/default/files/inline-images/d%C3%B6ner-kebab.jpg",
+    "image": "./images/plat-kebab.jpg",
     "price": "26 Dt",
-    "category" : "Plat"
+    "category" : "Plat",
+    "description" : "3 brochettes de kebab, viande de riz, salade, pain, houmous, sauce à l'ail et frites"
   },
     {
     "id": 14,
     "name": "Plat chich taouek",
-    "image": "https://www.la-cuisine-marocaine.com/photos-recettes/chich-taouk.jpg",
+    "image": "./images/Plat-chich-taouek.jpg",
     "price": "23 Dt",
-    "category" : "Plat"
+    "category" : "Plat",
+    "description" : "Brochettes de shish tawook.Salade de riz, pain, houmous, sauce à l'ail et frites"
   },
     {
     "id": 15,
     "name": "Plat machawi mchakel",
-    "image": "https://ouvadelivery.com/wp-content/uploads/2022/12/mchakel-500x300.jpg",
+    "image": "./images/mchakel-500x300.jpg",
     "price": "30 Dt",
-    "category" : "Plat"
+    "category" : "Plat",
+    "description" : "2 shish tawook, 1 kebab d'agneau et 1 kebab de poulet. Salade de riz, pain, houmous, sauce à l'ail et frites"
   },
     {
     "id": 16,
     "name": "Plat demi poulet grillé",
-    "image": "https://www.shutterstock.com/image-photo/half-appetizing-grilled-chicken-golden-600w-709230478.jpg",
+    "image": "./images/Plat-demi-poulet-grillé.png",
     "price": "20 Dt",
-    "category" : "Plat"
+    "category" : "Plat",
+    "description" : "Salade de riz, pain, houmous, sauce à l'ail et frites"
   },
     {
     "id": 17,
     "name": "Kebba",
-    "image": "https://www.tseppas.com/files/2/kebba-meat.jpg",
+    "image": "./images/kebba-meat.jpg",
     "price": "4 Dt",
     "category" : "Moajanat"
   },
     {
     "id": 18,
     "name": "Sambousek",
-    "image": "https://butfirstchai.com/wp-content/uploads/2022/11/sambousek-beef.jpg",
+    "image": "/images/sambousek.jpg",
     "price": "2.5 Dt",
     "category" : "Moajanat"
   },
     {
     "id": 19,
     "name": "Toast",
-    "image": "https://moribyan.com/wp-content/uploads/2023/02/IMG_8920.jpg",
+    "image":"./images/toast.jpg",
     "price": "2.5 Dt",
     "category" : "Moajanat"
+  }
+  , {
+    "id" : 20,
+    "name" : "Plat Crispy" , 
+    "image" : "./images/krespi.jpg" ,
+    "price" : "20 Dt",
+    "category" : "Plat",
+    "description" : "Salade de riz, pain et sauce Houmous, sauce à l'ail et frites"
+
   }
 ]
